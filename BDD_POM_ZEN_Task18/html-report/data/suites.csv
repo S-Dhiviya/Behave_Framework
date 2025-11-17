@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","1364","Login button is visible and clickable","","Thu Jul 03 12:36:45 IST 2025","passed","Thu Jul 03 12:36:46 IST 2025","","","",""
+"","3577","Functionality of Logout button","","Thu Jul 03 12:36:46 IST 2025","passed","Thu Jul 03 12:36:50 IST 2025","","","",""
+"","6817","Unsuccessful login with invalid credentials","","Thu Jul 03 12:36:37 IST 2025","broken","Thu Jul 03 12:36:44 IST 2025","","","",""
+"","2265","Successful login with valid credentials","","Thu Jul 03 12:36:31 IST 2025","passed","Thu Jul 03 12:36:33 IST 2025","","","",""
+"","4033","Error message for valid credentials","","Thu Jul 03 12:36:33 IST 2025","failed","Thu Jul 03 12:36:37 IST 2025","","","",""
+"","1371","Username and password fields are visible and editable","","Thu Jul 03 12:36:44 IST 2025","passed","Thu Jul 03 12:36:45 IST 2025","","","",""

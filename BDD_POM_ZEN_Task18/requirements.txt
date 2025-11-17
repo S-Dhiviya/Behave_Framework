@@ -1,0 +1,5 @@
+behave==1.2.6
+selenium==4.11.2
+pytest==7.4.2
+pytest-bdd==6.1.1
+python-dotenv==1.0.0
